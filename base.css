@@ -88,10 +88,10 @@ hr, div.hr{
 	border-bottom: 1px solid #111;
 }
 .text-light{
-	color: #222;
+	color: #FAFAFA;
 }
 .text-dark{
-	color: #FFF;
+	color: #222;
 }
 .container{
 	width: 100%;
