@@ -154,7 +154,7 @@ p#desc{
 #note-wrapper-5446{
 	padding: 20px;
 	background-color: rgba(0, 0, 0, .85);
-	box-shadow: 0 0 10px #111;
+/* 	box-shadow: 0 0 10px #111; */
 	border-radius: 10px;
 	overflow: hidden;
 	position: relative;
@@ -164,13 +164,13 @@ p#desc{
 		transform:scale(1);
 	}
 	25% {
-		transform:scale(.85);
+		transform:scale(.8);
 	}
 	50% {
 		transform:scale(1);
 	}
 	75% {
-		transform:scale(.95);
+		transform:scale(.9);
 	}
 	100% {
 		transform:scale(1);
@@ -221,4 +221,22 @@ p#desc{
 		float: none;
 		width: 100%;
 	}
+}
+.coret{
+	text-decoration: line-through;
+	color: #AAA;
+}
+.korek{
+	color: #6943ae;
+}
+.underdark, .underpurple{
+	width: 50px;
+	height: 5px;
+	float: right;
+}
+.underdark{
+	background-color: #3d2e62;
+}
+.underpurple{
+	background-color: #6943ae;
 }
