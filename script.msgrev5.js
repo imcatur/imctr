@@ -31,6 +31,6 @@ for(var i = 0; i < 100; i++){
 	var jhfdkj546_ambil_nama = h587jhjf_arr_nama[Math.floor(Math.random()*h587jhjf_arr_nama.length)];
 	var jhfdkj546_ambil_jasa = jhfjd34hgj_arr_jasa[Math.floor(Math.random()*jhfjd34hgj_arr_jasa.length)];
 	msg[i] = {};
-	msg[i].txt = jhfdkj546_ambil_nama + ' Telah Memesan <br>' + jhfdkj546_ambil_jasa + ', <br>Seharga ' + getRandomInt(250, 1500);
+	msg[i].txt = jhfdkj546_ambil_nama + ' Telah Memesan <br>' + jhfdkj546_ambil_jasa + ', <br>Seharga ' + getRandomInt(250, 1500) +'K';
 	msg[i].img = khlit8nbdgerjj_global_img;
 }
