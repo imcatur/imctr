@@ -39,4 +39,12 @@ function misochar(){
 		misochar();
 	}, jgh45j_time);
 }
-misochar();
+document.addEventListener('readystatechange', event => { 
+	if (event.target.readyState === "interactive"){
+	}
+	if (event.target.readyState === "complete"){
+		setTimeout(function(){
+			misochar();
+		}, 3000);
+	}
+});
