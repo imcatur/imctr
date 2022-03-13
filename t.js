@@ -1,4 +1,3 @@
-var jgh45j_time = 1000 * 30;
 function el(id){
 	return document.getElementById(id);
 }
@@ -14,6 +13,7 @@ close_note.onclick = function(){
 }
 var i = -1;
 function misochar(){
+	var jgh45j_time = 1000 * 60 * 2;
 	i++;
 	if(i > msg.length - 1){
 		i = 0;
