@@ -1,4 +1,4 @@
-var jgh45j_time = 1000 * 60 * 2;
+var jgh45j_time = 1000 * 20;
 function el(id){
 	return document.getElementById(id);
 }
