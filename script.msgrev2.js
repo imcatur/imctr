@@ -6,7 +6,7 @@ var msg = [
 	},
 	{
 		"img" : khlit8nbdgerjj_global_img,
-		"txt" : "Tina Telah Memesan <br>Toko Online, <br>Seharga 200K."
+		"txt" : "Tina Telah Memesan <br>Toko Online Dengan Opencart, <br>Seharga 200K."
 	},
 	{
 		"img" : khlit8nbdgerjj_global_img,
