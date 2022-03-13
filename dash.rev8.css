@@ -44,12 +44,6 @@ p#desc{
 	color: #FFF;
 	border-radius: 5px;
 }
-.text-center{
-	text-align: center;
-}
-.text-block{
-	display: block;
-}
 .vital-button{
 	padding: 10px 30px;
 	background-color: #5827a7;
