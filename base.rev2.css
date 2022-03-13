@@ -93,6 +93,12 @@ hr, div.hr{
 .text-dark{
 	color: #222;
 }
+.text-center{
+	text-align: center;
+}
+.text-block{
+	display: block;
+}
 .container{
 	width: 100%;
 	max-width: 800px;
