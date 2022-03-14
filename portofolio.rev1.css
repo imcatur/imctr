@@ -1,0 +1,43 @@
+#panel{
+	overflow: hidden;
+	position: fixed;
+	z-index: 1;
+	display: block;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+	background-color: #FAFAFA;
+	border-bottom: 1px solid #DDD;
+}
+#s-left{
+	float: left;
+}
+#s-right{
+	float: right;
+}
+#portofolio{
+	padding-top: 50px;
+}
+#pp{
+	display: block;
+	margin: auto;
+	width: 100px;
+	height: auto;
+}
+#t-html{
+	background-color: #e42d4f;
+}
+#t-css{
+	background-color: #3795e6;
+}
+#t-js{
+	background-color: #59c84f;
+}
+.l{
+	padding: 10px;
+	width: 100%;
+}
+.l-dark{
+	background-color: #2b2d4f;
+}
