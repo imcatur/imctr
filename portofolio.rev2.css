@@ -24,6 +24,7 @@
 	margin: auto;
 	width: 100px;
 	height: auto;
+	border-radius: 100%;
 }
 #t-html{
 	background-color: #e42d4f;
