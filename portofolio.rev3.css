@@ -10,6 +10,9 @@
 	background-color: #FAFAFA;
 	border-bottom: 1px solid #DDD;
 }
+#panel a{
+	padding: 5px 10px;
+}
 #s-left{
 	float: left;
 }
