@@ -234,3 +234,12 @@ p#desc{
 .underpurple{
 	background-color: #6943ae;
 }
+.z-1, .z-2{
+	padding: 0 5px;
+}
+.z-1{
+	background-color: #EEE;
+}
+.z-2{
+	background-color: #DDD;
+}
