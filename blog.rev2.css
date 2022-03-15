@@ -154,3 +154,29 @@
 		padding-top: 0;
 	}
 }
+#ADDPOST img{
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+.blog-posts img{
+	max-width: 300px;
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+.popular-posts li{
+	list-style: none;
+}
+.popular-posts img{
+	border: none;
+}
+.popular-posts .item-snippet{
+	line-height: 30px;
+}
+.date-header span{
+	font-size: 28px;
+}
+.post-footer{
+	display: none;
+}
