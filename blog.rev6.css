@@ -143,6 +143,10 @@
 	background-color: #FFF;
 	color: #261b4e;
 }
+p.oner a{
+	font-size: 24px;
+	line-height: 36px;
+}
 @media screen and (max-width: 640px){
 	#panel{
 		display: none;
@@ -152,6 +156,11 @@
 	}
 	#main-content{
 		padding-top: 0;
+	}
+
+	p.oner a{
+		font-size: 18px;
+		line-height: 28px;
 	}
 }
 #ADDPOST img{
@@ -202,8 +211,4 @@ a.link-o{
 a.link-o:hover{
 	background-color: #FAFAFA;
 	color: #34c656;
-}
-p.oner a{
-	font-size: 24px;
-	line-height: 36px;
 }
