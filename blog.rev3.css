@@ -171,7 +171,7 @@
 .popular-posts img{
 	border: none;
 }
-.popular-posts .item-snippet{
+.popular-posts .item-title, .popular-posts .item-snippet{
 	line-height: 30px;
 }
 .date-header span{
@@ -179,4 +179,27 @@
 }
 .post-footer{
 	display: none;
+}
+b.b{
+	font-weight: bold !important;
+}
+a.link{
+	background-color: #5c2a85;
+	padding: 4px 6px;
+	color: #FFF;
+	border-radius: 2px;
+}
+a.link:hover{
+	background-color: #FAFAFA;
+	color: #5c2a85;
+}
+a.link-o{
+	background-color: #34c656;
+	padding: 4px 6px;
+	color: #FFF;
+	border-radius: 2px;
+}
+a.link-o:hover{
+	background-color: #FAFAFA;
+	color: #34c656;
 }
