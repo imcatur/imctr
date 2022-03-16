@@ -203,3 +203,7 @@ a.link-o:hover{
 	background-color: #FAFAFA;
 	color: #34c656;
 }
+p.oner a{
+	font-size: 24px;
+	line-height: 36px;
+}
