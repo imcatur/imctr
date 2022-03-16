@@ -171,7 +171,7 @@
 .popular-posts img{
 	border: none;
 }
-.popular-posts .item-title, .popular-posts .item-snippet{
+.popular-posts .item-title a, .popular-posts .item-snippet{
 	line-height: 30px;
 }
 .date-header span{
