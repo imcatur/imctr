@@ -17,6 +17,9 @@
 	-ms-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	height: 100%;
+	width: 100%;
+	min-height: 100%;
 }
 #panel{
 	background-image: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
