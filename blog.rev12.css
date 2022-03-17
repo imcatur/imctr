@@ -199,7 +199,7 @@ a.link{
 	padding: 4px 6px;
 	color: #FFF;
 	border-radius: 2px;
-	display: inline-block;
+	display: inline;
 }
 a.link:hover{
 	background-color: #FAFAFA;
@@ -210,7 +210,7 @@ a.link-o{
 	padding: 4px 6px;
 	color: #FFF;
 	border-radius: 2px;
-	display: inline-block;
+	display: inline;
 }
 a.link-o:hover{
 	background-color: #FAFAFA;
