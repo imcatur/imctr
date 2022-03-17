@@ -1,0 +1,58 @@
+#input-url, #gen, #output-url, #copy, #clear{
+	outline: none;
+	background-color: #FAFAFA;
+	display: block;
+	padding: 20px 10px;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+}
+#input-url{
+	border: 1px solid #d5bcf0;
+	color: #d5bcf0;
+	width: 100%;
+}
+#dash-rpl + label, #under-rpl + label{
+	cursor: pointer;
+}
+#gen{
+	background-color: #4aa769;
+	color: #FFF;
+	border: 2px solid #4aa769;
+	cursor: pointer;
+	text-align: center;
+	width: 100%;
+}
+#gen:hover{
+	background-color: #FFF;
+	color: #4aa769;
+}
+#output-url{
+	border: 1px solid #ffa700;
+	color: #ffa700;
+	width: 100%;
+}
+#copy, #clear{
+	width: 50%;
+	float: left;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+}
+#copy{
+	background-color: #4a3769;
+	color: #FFF;
+	border: 2px solid #4a3769;
+}
+#copy:hover{
+	background-color: #FFF;
+	color: #4a3769;
+}
+#clear{
+	background-color: #c93749;
+	color: #FFF;
+	border: 2px solid #c93749;
+}
+#clear:hover{
+	background-color: #FFF;
+	color: #c93749;
+}
