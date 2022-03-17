@@ -169,10 +169,10 @@ p.oner a{
 	margin: auto;
 }
 .blog-posts img{
-	max-width: 300px;
+/* 	max-width: 300px;
 	width: 100%;
 	display: block;
-	margin: auto;
+	margin: auto; */
 }
 .popular-posts li{
 	list-style: none;
