@@ -168,11 +168,13 @@ p.oner a{
 	display: block;
 	margin: auto;
 }
-.blog-posts img{
-/* 	max-width: 300px; */
+.blog-posts .img-head img, .blog-posts .img-body img{
 	width: 100%;
 	display: block;
 	margin: auto;
+}
+.blog-posts .img-head img{
+	max-width: 300px;
 }
 .popular-posts li{
 	list-style: none;
