@@ -28,7 +28,7 @@
 	display: inline-block;
 	background-color: #000;
 	border-radius: 20px;
-	padding: 20px;
+/* 	padding: 20px; */
 }
 #code-input, #code-output{
 	box-sizing: border-box;
