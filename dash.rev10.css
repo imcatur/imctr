@@ -216,6 +216,11 @@ p#desc{
 		width: 100%;
 	}
 }
+@media screen and (max-height: 480px){
+	#dashboard{
+		height: auto;
+	}
+}
 .coret{
 	text-decoration: line-through;
 	color: #AAA;
