@@ -199,6 +199,7 @@ p.oner a{
 }
 b.b{
 	font-weight: bold !important;
+	display: inline-block;
 }
 a.link{
 	background-color: #5c2a85;
