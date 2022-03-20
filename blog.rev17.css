@@ -199,7 +199,8 @@ p.oner a{
 }
 b.b{
 	font-weight: bold !important;
-	display: inline-block;
+	display: block;
+	line-height: 30px;
 }
 a.link{
 	background-color: #5c2a85;
